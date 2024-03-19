@@ -2,7 +2,6 @@ from django.conf import settings
 from django.db import models
 from django.utils import timezone
 
-pa_autoconfigure_django.py --python=3.8 https://github.com/SalvaGarciaOlmedo/https://github.com/SalvaGarciaOlmedo/RecuDjangoGirls.git
 
 
 class Post(models.Model):
